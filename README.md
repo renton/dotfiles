@@ -7,7 +7,9 @@
 **Keygen ssh**
 
 `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+
 `eval "$(ssh-agent -s)"`
+
 `ssh-add ~/.ssh/id_rsa`
 
 Add to github account from `id_rsa.pub`
