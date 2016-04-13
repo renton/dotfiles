@@ -15,6 +15,10 @@ filetype plugin indent on
 set tabstop=4
 set shiftwidth=4
 set expandtab
+set textwidth=100
 
 highlight OverLength ctermbg=red ctermfg=white guibg=#592929
 match OverLength /\%101v.\+/
+
+set colourcolumn=101
+highlight ColorColumn ctermbg=black guibg=gray
