@@ -38,3 +38,7 @@ https://razorsql.com/download.html
 
 https://www.authy.com/app/desktop/
 
+**Install Docker**
+
+https://docs.docker.com/v1.8/installation/ubuntulinux/
+
