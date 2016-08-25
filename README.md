@@ -18,6 +18,8 @@ Add to github account from `id_rsa.pub`
 
 `git clone git@github.com:renton/dotfiles.git`
 
+---
+
 **Install Slack for Desktop**
 
 https://slack.com/downloads
