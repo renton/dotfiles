@@ -42,3 +42,7 @@ https://www.authy.com/app/desktop/
 
 https://docs.docker.com/v1.8/installation/ubuntulinux/
 
+**Install Steam**
+
+http://store.steampowered.com/about/
+
