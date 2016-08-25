@@ -46,3 +46,7 @@ https://docs.docker.com/v1.8/installation/ubuntulinux/
 
 http://store.steampowered.com/about/
 
+**Install Spotify**
+
+https://www.spotify.com/ca-en/download/linux/
+
