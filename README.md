@@ -52,7 +52,7 @@ http://store.steampowered.com/about/
 
 https://www.spotify.com/ca-en/download/linux/
 
------
+---
 
 **Append to .bashrc**
 
