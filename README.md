@@ -52,6 +52,12 @@ http://store.steampowered.com/about/
 
 https://www.spotify.com/ca-en/download/linux/
 
+**Install Postman**
+
+**Install Atom**
+
+**Install Mysql Workbench**
+
 ---
 
 **Append to .bashrc**
